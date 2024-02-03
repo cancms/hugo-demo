@@ -1,4 +1,5 @@
-baseURL = 'https://cancms.github.io/hugo-demo/'
+baseURL_BAK = 'https://cancms.github.io/hugo-demo/'
+baseURL = 'https://remarkable-malabi-6b494a.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
