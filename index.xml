@@ -13,8 +13,7 @@
       <link>https://cancms.github.io/hugo-demo/posts/my-first-post/</link>
       <pubDate>Mon, 27 Nov 2023 14:18:22 +0800</pubDate>
       <guid>https://cancms.github.io/hugo-demo/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
     </item>
   </channel>
 </rss>
