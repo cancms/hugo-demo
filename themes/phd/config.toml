@@ -1,7 +1,6 @@
 baseURL = "/"
 languageCode = "en"
 title = "Yang Wenting"
-theme = 'phd'
 author = "Formspree"
 description = "A modern, beautiful, and easily configurable blog theme for Hugo."
 copyright = "" # set to override the auto generated copyright using org info and now year
@@ -61,6 +60,3 @@ preserveTaxonomyNames = true
   category = "categories"
   series = "series"
   tag = "tags"
-
-[markup.goldmark.renderer]
-  unsafe = true # Allow HTML in md files
