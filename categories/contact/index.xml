@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Yang Wenting</title>
-    <link>/categories/contact/</link>
+    <link>https://cancms.github.io/hugo-demo/categories/contact/</link>
     <description>Recent content in Contact on Yang Wenting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="/categories/contact/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cancms.github.io/hugo-demo/categories/contact/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>/contacts/</link>
+      <link>https://cancms.github.io/hugo-demo/contacts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/contacts/</guid>
+      <guid>https://cancms.github.io/hugo-demo/contacts/</guid>
       <description> Contact me Email: yangwenting at nankai.edu.cn Address: 38 Tongyan Road, Jinnan District, Tianjin, China 地址: 天津市津南区海河教育园区同砚路38号 </description>
     </item>
   </channel>

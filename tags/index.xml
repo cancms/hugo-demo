@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Yang Wenting</title>
-    <link>/tags/</link>
+    <link>https://cancms.github.io/hugo-demo/tags/</link>
     <description>Recent content in Tags on Yang Wenting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cancms.github.io/hugo-demo/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>/tags/contact/</link>
+      <link>https://cancms.github.io/hugo-demo/tags/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/contact/</guid>
+      <guid>https://cancms.github.io/hugo-demo/tags/contact/</guid>
       <description></description>
     </item>
     <item>
       <title>Project</title>
-      <link>/tags/project/</link>
+      <link>https://cancms.github.io/hugo-demo/tags/project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/project/</guid>
+      <guid>https://cancms.github.io/hugo-demo/tags/project/</guid>
       <description></description>
     </item>
     <item>
       <title>Research</title>
-      <link>/tags/research/</link>
+      <link>https://cancms.github.io/hugo-demo/tags/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/research/</guid>
+      <guid>https://cancms.github.io/hugo-demo/tags/research/</guid>
       <description></description>
     </item>
     <item>
       <title>Teaching</title>
-      <link>/tags/teaching/</link>
+      <link>https://cancms.github.io/hugo-demo/tags/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/teaching/</guid>
+      <guid>https://cancms.github.io/hugo-demo/tags/teaching/</guid>
       <description></description>
     </item>
   </channel>
