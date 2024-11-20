@@ -7,10 +7,10 @@ body:
     attributes:
       value: |
         **感谢您的反馈！| Thanks for taking the time to fill out this bug report!**
-            有关功能建议，疑问或非bug类, 请查看[讨论区](https://github.com/immersive-translate/immersive-translate/discussions) 
-              For feature, questions, or other request, please consider using [Github Discussion](https://github.com/immersive-translate/immersive-translate/discussions) instead.
-            请先查找是否已有类似的 [问题](https://github.com/immersive-translate/immersive-translate/issues) 
-              Please search [issue](https://github.com/immersive-translate/immersive-translate/issues) before asking
+            有关功能建议，疑问或非bug类, 请查看[讨论区](https://github.com/cancms/hugo-demo/discussions) 
+              For feature, questions, or other request, please consider using [Github Discussion](https://github.com/cancms/hugo-demo/discussions) instead.
+            请先查找是否已有类似的 [问题](https://github.com/cancms/hugo-demo/issues) 
+              Please search [issue](https://github.com/cancms/hugo-demo/issues) before asking
   - type: input
     id: version
     attributes:
